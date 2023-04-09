@@ -3908,6 +3908,18 @@ body.is-preload #banner:after {
   }
 }
 
+@media screen and (max-width: 736px) {
+  .inner2 > p {
+    margin: 5px;
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  .inner > div > .profile-pic {
+    width: 290px;
+  }
+}
 /* Main */
 
 #main > header {
@@ -4131,7 +4143,11 @@ body.is-mobile.landing #footer {
 }
 
 .profile-pic {
-  height: 500px;
+  height: 300px;
   width: 400px;
   border-radius: 20px;
 }
+
+/* .inner2 > p {
+  padding: 0 5px;
+} */
