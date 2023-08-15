@@ -4146,6 +4146,7 @@ body.is-mobile.landing #footer {
   height: 300px;
   width: 400px;
   border-radius: 20px;
+  object-fit: cover;
 }
 
 /* .inner2 > p {
