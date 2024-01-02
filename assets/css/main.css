@@ -96,6 +96,10 @@ video {
   vertical-align: baseline;
 }
 
+/* a {
+  margin-bottom: 15px;
+} */
+
 article,
 aside,
 details,
@@ -4147,6 +4151,10 @@ body.is-mobile.landing #footer {
   width: 400px;
   border-radius: 20px;
   object-fit: cover;
+}
+
+.github-link {
+  color: #00f0ff;
 }
 
 /* .inner2 > p {
