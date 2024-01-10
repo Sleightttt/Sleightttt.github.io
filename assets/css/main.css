@@ -4160,3 +4160,8 @@ body.is-mobile.landing #footer {
 /* .inner2 > p {
   padding: 0 5px;
 } */
+
+.expo {
+  height: 100%;
+  width: 100%;
+}
