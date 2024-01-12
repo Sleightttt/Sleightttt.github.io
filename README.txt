@@ -67,7 +67,7 @@ When not coding, Brennan enjoys horror films, camping adventures, and exploring 
 
 Feel free to reach out to Brennan through the following channels:
 
-- **Phone:** (909) 210-6114
+
 - **Email:** brennancota@yahoo.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/brennan-cota-11768aa6/)
 - **GitHub:** [GitHub Profile](https://github.com/Sleightttt)
