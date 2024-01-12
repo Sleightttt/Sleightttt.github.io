@@ -1,23 +1,74 @@
-Project Description:
+# Brennan Cota's Portfolio
 
-Embark on a cutting-edge web development journey with our latest project, a visually striking and functionally robust website that seamlessly blends modern aesthetics with optimal responsiveness. Picture a bold, contemporary design characterized by clean lines, a mobile-friendly menu, and a meticulously crafted assortment of pre-styled elements that elevate user experience to new heights.
+## Overview
 
-Key Features:
+This is the portfolio site for Brennan Cota, a Full Stack Software Engineer. The site showcases Brennan's skills, projects, and provides information about him.
 
-Responsive Design:
-Immerse yourself in a website that adapts effortlessly to any screen size, thanks to the implementation of components derived from our proprietary Responsive Tools project. The design ensures a seamless and consistent user experience across a diverse range of devices.
+## Table of Contents
 
-Flexbox Mastery:
-Say goodbye to cumbersome layout workarounds and welcome the efficiency of flexbox. Our project leverages the power of flexbox to create a fluid and flexible layout that eliminates the need for clunky grid systems and unwieldy hacks.
+- [Introduction](#introduction)
+- [Skills](#skills)
+- [About](#about)
+- [Projects](#projects)
+  - [ImageSpace](#imagespace)
+  - [JobSeeker](#jobseeker)
+  - [OOtify Clone](#ootify-clone)
+- [Contact](#contact)
 
-Intelligent Sass Usage:
-Dive into the world of intelligent Sass utilization, featuring a collection of innovative mixins and functions meticulously crafted for enhanced styling. With inspiration from the expertise of @HugoGiraudel, our project takes Sass to new heights, providing a smoother and more maintainable CSS experience. Of course, vanilla CSS enthusiasts are welcome too!
+## Introduction
 
-Extensive Toolkit:
-Beyond the fundamentals, our project boasts a rich assortment of tools and technologies to elevate the development experience. Explore a suite of features designed to streamline development and enhance overall project efficiency.
+Welcome to Brennan Cota's portfolio! As a Full Stack Software Engineer, Brennan brings a versatile skill set to the table. This site serves as a hub to explore his capabilities, view projects, and get in touch.
 
-Iconic Visuals:
-Elevate your visual language with the integration of Font Awesome icons. These versatile and customizable icons from fontawesome.io add a touch of sophistication and modernity to the overall design.
+## Skills
 
-JavaScript Elegance:
-Harness the power of jQuery and Scrollex to introduce dynamic and interactive elements to your website. jQuery provides a robust foundation for smooth, cross-browser-compatible scripting, while Scrollex from github.com/ajlkn/jquery.scrollex allows for captivating scroll-based interactions.
+Brennan's proficiency includes, but is not limited to:
+
+- SQLAlchamy
+- Node.js
+- React
+- Flask
+- Docker
+- JavaScript
+- Python
+- MongoDB
+- Tailwind CSS
+- HTML5/CSS3
+- Express
+- npm
+- Redux
+
+## About
+
+Brennan is a passionate software engineer with a strong foundation in web application development. A graduate of App Academy, he has dedicated over 100 hours per week to mastering various technologies and programming languages. His experience includes developing an Agile Chatbot for Scrummasters and contributing to solutions for a medical marketing company.
+
+When not coding, Brennan enjoys horror films, camping adventures, and exploring new restaurants.
+
+## Projects
+
+### ImageSpace
+
+- **Description:** A Flickr clone with 5 working CRUD features, featuring a React frontend and Flask backend. Utilizes AI image recognition API Imagga for auto-tagging. Users can sign up, follow/unfollow, like/comment on photos, and upload their own. Fully responsive with a 'mobile first' approach.
+
+- **GitHub:** [ImageSpace GitHub](https://github.com/Sleightttt/AA-Captstone-Project)
+
+### JobSeeker
+
+- **Description:** A sophisticated job-seeking app developed using React Native. Seamless UI for optimized job search, real-time job data integration from RapidApi using Axios. Emphasizes clean code architecture, modularization, code reusability, and responsive design. Compatible with IOS/Android.
+
+- **GitHub:** [JobSeeker GitHub](https://github.com/Sleightttt/Geist)
+
+### OOtify Clone
+
+- **Description:** A clone of a mental health organization's landing page. Features animations, responsive design principles, and a fully functional contact form. Built with React, CSS, HTML5, and Node.js. 'Mobile first' approach with full responsiveness.
+
+- **GitHub:** [OOtify Clone GitHub](https://github.com/Sleightttt/ootify-clone)
+
+## Contact
+
+Feel free to reach out to Brennan through the following channels:
+
+- **Phone:** (909) 210-6114
+- **Email:** brennancota@yahoo.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/brennan-cota-11768aa6/)
+- **GitHub:** [GitHub Profile](https://github.com/Sleightttt)
+- **Resume:** [Download Resume](images/My%20Resume%20-%20Brennan%20Cota%20(13).pdf)
