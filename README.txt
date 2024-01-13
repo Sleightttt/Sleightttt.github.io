@@ -53,7 +53,7 @@ When not coding, Brennan enjoys horror films, camping adventures, and exploring 
 
 ### JobSeeker
 
-- **Description:** A sophisticated job-seeking app developed using React Native. Seamless UI for optimized job search, real-time job data integration from RapidApi using Axios. Emphasizes clean code architecture, modularization, code reusability, and responsive design. Compatible with IOS/Android.
+- **Description:** A sophisticated job-seeking app developed using React Native and Expo. Seamless UI for optimized job search, real-time job data integration from RapidApi using Axios. Emphasizes clean code architecture, modularization, code reusability, and responsive design. Compatible with IOS/Android.
 
 - **GitHub:** [JobSeeker GitHub](https://github.com/Sleightttt/Geist)
 
