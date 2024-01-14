@@ -65,7 +65,7 @@ When not coding, Brennan enjoys horror films, camping adventures, and exploring 
 
 ## Contact
 
-Feel free to reach out to Brennan through the following channels:
+Feel free to reach out to me through the following channels:
 
 
 - **Email:** brennancota@yahoo.com
