@@ -67,7 +67,6 @@ When not coding, Brennan enjoys horror films, camping adventures, and exploring 
 
 Feel free to reach out to me through the following channels:
 
-
 - **Email:** brennancota@yahoo.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/brennan-cota-11768aa6/)
 - **GitHub:** [GitHub Profile](https://github.com/Sleightttt)
