@@ -36,6 +36,9 @@ Brennan's proficiency includes, but is not limited to:
 - Express
 - npm
 - Redux
+- Expo
+- React
+- React Native
 
 ## About
 
