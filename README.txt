@@ -35,6 +35,7 @@ Brennan's proficiency includes, but is not limited to:
 - HTML5/CSS3
 - Express
 - npm
+- yarn
 - Redux
 - Expo
 - React
