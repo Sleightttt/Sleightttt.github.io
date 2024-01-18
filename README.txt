@@ -44,7 +44,7 @@ Brennan's proficiency includes, but is not limited to:
 
 ## About
 
-Brennan is a passionate software engineer with a strong foundation in web application development. A graduate of App Academy, he has dedicated over 100 hours per week to mastering various technologies and programming languages. His experience includes developing an Agile Chatbot for Scrummasters and contributing to solutions for a medical marketing company.
+Hello! I am a passionate software engineer with a strong foundation in web application development. A graduate of App Academy, he has dedicated over 100 hours per week to mastering various technologies and programming languages. His experience includes developing an Agile Chatbot for Scrummasters and contributing to solutions for a medical marketing company.
 
 When not coding, Brennan enjoys horror films, camping adventures, and exploring new restaurants.
 
