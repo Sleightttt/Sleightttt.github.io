@@ -40,6 +40,7 @@ Brennan's proficiency includes, but is not limited to:
 - Expo
 - React
 - React Native
+- EAS
 
 ## About
 
