@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the portfolio site for Brennan Cota, a Full Stack Software Engineer. The site showcases Brennan's skills, projects, and provides information about him.
+This is the portfolio site for Brennan Cota, a Full Stack Software Engineer. The site showcases my skills, projects, and provides information about me.
 
 ## Table of Contents
 
