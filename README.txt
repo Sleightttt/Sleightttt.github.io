@@ -21,7 +21,7 @@ Welcome to Brennan Cota's portfolio! As a Full Stack Software Engineer, Brennan 
 
 ## Skills
 
-Brennan's proficiency includes, but is not limited to:
+My proficiency includes, but is not limited to:
 
 - SQLAlchamy
 - Node.js
